@@ -4,7 +4,7 @@ A hands-on implementation of linear regression using NumPy, built to understand 
 
 ## Overview
 
-The goal of this project is to implement a linear regression model from scratch without relying on machine learning libraries such as scikit-learn for the core algorithm.
+The goal of this project is to implement a linear regression model and a logistic regression model from scratch without relying on machine learning libraries such as scikit-learn for the core algorithm.
 
 The implementation focuses on understanding how a model learns from data by minimizing a cost function through gradient descent.
 
