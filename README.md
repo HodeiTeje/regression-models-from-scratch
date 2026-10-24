@@ -27,7 +27,7 @@ The implementation focuses on understanding how a model learns from data by mini
 ## Project Structure
 
 ```text
-linear-regression-numpy/
+regression-models-from-scratch/
 ├── notebooks/     # Experiments and exploratory analysis
 ├── src/           # Model implementation
 ├── tests/         # Unit tests
@@ -42,8 +42,8 @@ linear-regression-numpy/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/linear-regression-numpy.git
-cd linear-regression-numpy
+git clone https://github.com/YOUR_USERNAME/regression-models-from-scratch.git
+cd regression-models-from-scratch
 ```
 
 ### 2. Create and activate a virtual environment
