@@ -54,7 +54,7 @@ class LinearRegression:
             if(gradient_norm < self.tolerance):
                 break
 
-            return costs
+        return costs
 
 
 
